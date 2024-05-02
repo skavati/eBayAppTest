@@ -1,0 +1,1 @@
+powershell.exe -file .\UpdateConfigPropertiesFile.ps1
